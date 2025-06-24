@@ -10,7 +10,9 @@ Install with:
 ```bash
 pip install -r requirements.txt
 ```
+- Create a samplex.md and write sample content in it
+- Create a samplex.html 
 ## How to run it
 ```bash
-python converter.py sample.md sample.html
+python converter.py samplex.md samplex.html
 ```
