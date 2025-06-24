@@ -11,4 +11,6 @@ Install with:
 pip install -r requirements.txt
 ```
 ## How to run it
+```bash
 python converter.py sample.md sample.html
+```
